@@ -1,0 +1,27 @@
+{
+  "name": "node-leap",
+  "version": "0.0.0",
+  "description": "A simple Leap server written in node.",
+  "main": "server.js",
+  "dependencies": {
+    "emit-stream": "~0.1.0",
+    "JSONStream": "~0.4.3",
+    "lodash": "~1.0.1",
+    "shoe": "~0.0.7",
+    "through": "~2.2.0",
+    "ecstatic": "~0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "install": "node-gyp rebuild",
+    "start": "make run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:evilhackerdude/node-leap.git"
+  },
+  "author": "Stephan Seidt <evilhackerdude@gmail.com>",
+  "license": "MIT",
+  "gypfile": true,
+  "readmeFilename": "README.md"
+}
