@@ -11,7 +11,9 @@ intersection support!
 
 ## Installation
 
-1. Create a symlink to your Leap SDK called `sdk` in the root of this directory.
-2. Run `make`
-3. Run `make run`
-4. Visit http://localhost:1337 (if you have problems check the console for errors)
+1. Create a symlink called `sdk` in the root of this directory.
+   It should point to the "Leap SDK" folder of the distribution.
+2. `npm install`
+3. `make`
+4. `make run`
+5. Visit http://localhost:1337/ (if you have problems check the console for errors)
