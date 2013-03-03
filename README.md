@@ -20,4 +20,4 @@ intersection support!
 3. `make`
 4. `make run`
 5. Visit http://localhost:1337/ (if you have problems check the console for errors)
-6. Point fingers at your screen. COLORS APPEAR MAGICALLY!
+6. Enable full-screen mode with `Command-Shift-F` and point fingers at the screen. COLORS APPEAR MAGICALLY!
