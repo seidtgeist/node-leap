@@ -2,6 +2,8 @@
 
 A simple Leap server written in node.
 
+This is my own unofficial server. The official server is bundled with the SDK.
+
 The server uses a small C++ addon to access the Leap API and returns a JS object.
 
 ## Why?
